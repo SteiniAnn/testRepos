@@ -2,3 +2,4 @@ This is a Test.
 Changed Line.
 This is another line.
 Add this line.
+Here is a new line.
