@@ -1,4 +1,2 @@
 This is a Test.
-Changed Line.
-This is another line.
-Now change this line
+Remove line.
